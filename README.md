@@ -4,6 +4,7 @@
 - 🌱 Estou me aperfeiçoando em Gestão de Processos e Front-End.
 - 👩🏽‍💻 Sou Especialista em Atendimento ao Cliente, com foco em Customer Success.
 
+
 ### Github Analytics
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raissamsoliveira&show_icons=true&count_private=true&theme=tokyonight" alt="Github Analytics raissamsoliveira"/>
@@ -28,7 +29,7 @@
   <img align="center" alt="Raissa-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
   <img align="center" alt="Raissa-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Raissa-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img align="center" alt="Ester-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Raissa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
