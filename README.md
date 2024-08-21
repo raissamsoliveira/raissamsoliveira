@@ -1,8 +1,8 @@
 ## Oiii! Sou a Raissa Oliveira! Seja bem-vind@! 
 
 - 📚 Sou estudante de graduação do curso Engenharia de Software na UnB.
-- 🌱 Estou me aperfeiçoando em Gestão de Processos e Front-End.
-- 👩🏽‍💻 Sou Especialista em Atendimento ao Cliente, com foco em Customer Success.
+- 🌱 Estou me aperfeiçoando em Desenvolvimento Web.
+- 👩🏽‍💻 Sou Especialista em Atendimento ao Cliente, com foco em Customer Experience. 
 
 
 ### Github Analytics
